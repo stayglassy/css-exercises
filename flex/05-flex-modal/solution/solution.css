@@ -93,3 +93,9 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
+.container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
